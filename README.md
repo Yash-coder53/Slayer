@@ -3,7 +3,7 @@
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/DeadliestOne/count.svg" />
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+𝐌𝐈𝐓𝐒𝐔𝐇𝐀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+SLAYER"></b></h1>
 
 <p align="center"><a href="https://t.me/JARVIS_V2"><img src="https://envs.sh/CtX.jpeg" width="600"></a></p>
 
@@ -37,7 +37,7 @@
 
  `` ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─`` 
 
-- Get your [Necessary Variables](https://github.com/deadliestone/Mitsuha/blob/Master/sample.env)
+- Get your [Necessary Variables](https://github.com/Yash-coder53/music/sample.env)
 - Update and install necessary packages :
 `sudo apt update && sudo apt install git curl python3-pip ffmpeg -y`
 
@@ -56,11 +56,11 @@
 - Install Node.js from NodeSource :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 
-- Clone the 𝐌𝐈𝐓𝐒𝐔𝐇𝐀 repository :
+- Clone the SLAYER repository :
 `https://github.com/DeadliestOne/Mitsuha.git`
 
-- Change directory to 𝐌𝐈𝐓𝐒𝐔𝐇𝐀 :
-`cd Mitsuha`
+- Change directory to SLAYER :
+`cd Slayer`
 
 - Install required Python packages :
 `pip3 install -U -r requirements.txt`
@@ -88,7 +88,7 @@
     </details>
 
 # 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭!! 💗🥀
-<a href="https://t.me/UncountableAura"><img title="Telegram" src="https://img.shields.io/badge/RIO-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/GOD_MADARA_OP"><img title="Telegram" src="https://img.shields.io/badge/RIO-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uncountableaura@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/@uncountableaura"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&llogo=youtube&logoColor=white"></a>
 <a href="https://instagram.com/uchiha.rar"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
