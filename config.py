@@ -32,9 +32,9 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/AnonymousX1025/AnonXMusic",
+    "https://github.com/Yash-coder53/music",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "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", True
 )  # Fill this variable if your upstream repository is private
@@ -61,7 +61,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 # Checkout https://www.gbmb.org/mb-to-bytes for converting mb to bytes
 
 #Dont edit this line !!
-MITWA = [ "<b>нєу</b> {0}, 💗\n\n๏ ᴛʜɪs ɪs {1} !\n\n➻ {1} ʏᴏᴜʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ! EɴJᴏʏ sᴇᴀᴍʟᴇss 💓 ᴀᴄᴄᴇss ᴛᴏ ᴀɴʏ sᴏɴɢ ᴡɪᴛʜ ʟᴀɢ-ғʀᴇᴇ ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ ᴀɴᴅ ᴛʜᴇ ʙᴇsᴛ ᴀᴜᴅɪᴏ ǫᴜᴀʟɪᴛʏ. Mɪᴛsᴜʜᴀ ᴄᴜʀᴀᴛᴇs ᴘᴇʀsᴏɴᴀʟɪᴢᴇᴅ ᴘʟᴀʏʟɪsᴛs, ᴅɪsᴄᴏᴠᴇʀs ɴᴇᴡ ᴀʀᴛɪsᴛs, ᴀɴᴅ ᴇɴʜᴀɴᴄᴇs ʏᴏᴜʀ ʟɪsᴛᴇɴɪɴɢ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴍᴀᴋɪɴɢ ɪᴛ ᴛʜᴇ ᴘᴇʀғᴇᴄᴛ ᴄᴏᴍᴘᴀɴɪᴏɴ ғᴏʀ ᴀʟʟ ʏᴏᴜʀ ᴍᴜsɪᴄᴀʟ ᴍᴏᴍᴇɴᴛs 🦋. ᴛᴜɴᴇ ɪɴ ɴᴏᴡ!.\n\n<b><u>Sᴜᴘᴘᴏʀᴛᴇᴅ Pʟᴀᴛғᴏʀᴍs :</b></u> ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪғʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇ ᴍᴜsɪᴄ ᴀɴᴅ sᴏᴜɴᴅᴄʟᴏᴜᴅ.\n──────────────────\n<b>๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs🦋.</b> "  ,
+MITWA = [ "<b>нєу</b> {0}, 💗\n\n๏ ᴛʜɪs ɪs {1} !\n\n➻ {1} ʏᴏᴜʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ! EɴJᴏʏ sᴇᴀᴍʟᴇss 💓 ᴀᴄᴄᴇss ᴛᴏ ᴀɴʏ sᴏɴɢ ᴡɪᴛʜ ʟᴀɢ-ғʀᴇᴇ ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ ᴀɴᴅ ᴛʜᴇ ʙᴇsᴛ ᴀᴜᴅɪᴏ ǫᴜᴀʟɪᴛʏ. sʟᴀʏᴇʀ ᴄᴜʀᴀᴛᴇs ᴘᴇʀsᴏɴᴀʟɪᴢᴇᴅ ᴘʟᴀʏʟɪsᴛs, ᴅɪsᴄᴏᴠᴇʀs ɴᴇᴡ ᴀʀᴛɪsᴛs, ᴀɴᴅ ᴇɴʜᴀɴᴄᴇs ʏᴏᴜʀ ʟɪsᴛᴇɴɪɴɢ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴍᴀᴋɪɴɢ ɪᴛ ᴛʜᴇ ᴘᴇʀғᴇᴄᴛ ᴄᴏᴍᴘᴀɴɪᴏɴ ғᴏʀ ᴀʟʟ ʏᴏᴜʀ ᴍᴜsɪᴄᴀʟ ᴍᴏᴍᴇɴᴛs 🦋. ᴛᴜɴᴇ ɪɴ ɴᴏᴡ!.\n\n<b><u>Sᴜᴘᴘᴏʀᴛᴇᴅ Pʟᴀᴛғᴏʀᴍs :</b></u> ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪғʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇ ᴍᴜsɪᴄ ᴀɴᴅ sᴏᴜɴᴅᴄʟᴏᴜᴅ.\n──────────────────\n<b>๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs🦋.</b> "  ,
         ]
 
 
