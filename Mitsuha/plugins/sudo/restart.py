@@ -10,15 +10,15 @@ from git.exc import GitCommandError, InvalidGitRepositoryError
 from pyrogram import filters
 
 import config
-from Mitsuha import app
-from Mitsuha.misc import HAPP, SUDOERS, XCB
-from Mitsuha.utils.database import (
+from Slayer import app
+from Slayer.misc import HAPP, SUDOERS, XCB
+from Slayer.utils.database import (
     get_active_chats,
     remove_active_chat,
     remove_active_video_chat,
 )
-from Mitsuha.utils.decorators.language import language
-from Mitsuha.utils.pastebin import AnonyBin
+from Slayer.utils.decorators.language import language
+from Slayer.utils.pastebin import AnonyBin
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
