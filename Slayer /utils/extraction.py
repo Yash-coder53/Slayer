@@ -1,7 +1,7 @@
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message, User
 
-from Mitsuha import app
+from Slayer import app
 
 
 async def extract_user(m: Message) -> User:
