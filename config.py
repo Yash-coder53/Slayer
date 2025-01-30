@@ -66,7 +66,7 @@ MITWA = [ "<b>нєу</b> {0}, 💗\n\n๏ ᴛʜɪs ɪs {1} !\n\n➻ {1} ʏᴏᴜ
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("BQGuXKQAGqIzS3Qj1p6fOU7XEYksJ-63t6lVfWjxxk8RSdD6ey71ZIGUV1jLDUZYGsFnuKL56OS32NhDa4sjcSlMIZPsW4HIO_AByC-b0zyciQAUoaHm6RJOD-is2HlBRl_L8qQSX4CYo5YChZK6QaXXmsr2VMGLprzqVVmfKDYOsZ9YdP5mhI_28Wak_vvScbz0J_zngzeHLd-UfcqVYTjn1cRoOdqYHxYkTxVwM-0fszrlkS5TlJmPpCejewXVqpGFo4QxYpdTnt9aMan_xZ1eMG9GxrGnsJJmDGtHGUYVo-DXMdoKm7_AgCni8mL7SRywfhnAhTizjSdVVfTyJLt9FilRCAAAAAHj3wCHA", True)
+STRING1 = getenv("BQGuXKQAC7FXVffv0eKtnYxV4jJVzv_izuFKi_sWRujndZW63Ck9klAul58q0k1ElEecyodax46v6k9QgmZzTV8ezCr4ZJFBTwbn6VmVJIhOzObzzj7j_jRHJ9GaH0bGgh5AxhEy3CNCeVh2HiE_HXLRSwwKa7HmzD5vMy2N3rWjbRptg4TN4mpbWYClYrLA9VD_Y4zrQzmx5paTpJCybP5H9NnGoV3cEtKwkPbIEWIH3WX8xDuqrgBbug-0yDBPb8XBJWNuX3tmK2j8Gz4-SNXxKfCLlUzld_i6jyCKysyLBFpIlCjZqiwaY23cRrK_lPZfkzN3HaiOk5Ig3jWZbedkpfOxgwAAAAHCyZuBAA", True)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
