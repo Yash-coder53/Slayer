@@ -6,8 +6,8 @@ from typing import Union
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Voice
 
 import config
-from Mitsuha import app
-from Mitsuha.utils.formatters import (
+from Slayer import app
+from Slayer.utils.formatters import (
     check_duration,
     convert_bytes,
     get_readable_time,
