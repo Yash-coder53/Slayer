@@ -37,7 +37,7 @@
 
  `` ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─`` 
 
-- Get your [Necessary Variables](https://github.com/Yash-coder53/music/sample.env)
+- Get your [Necessary Variables](https://github.com/Yash-coder53/Slayer/sample.env)
 - Update and install necessary packages :
 `sudo apt update && sudo apt install git curl python3-pip ffmpeg -y`
 
@@ -57,7 +57,7 @@
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 
 - Clone the SLAYER repository :
-`https://github.com/DeadliestOne/Mitsuha.git`
+`https://github.com/Yash-coder53/Slayer.git`
 
 - Change directory to SLAYER :
 `cd Slayer`
@@ -88,8 +88,8 @@
     </details>
 
 # 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭!! 💗🥀
-<a href="https://t.me/GOD_MADARA_OP"><img title="Telegram" src="https://img.shields.io/badge/RIO-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=uncountableaura@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://t.me/GOD_MADARA_OP"><img title="Telegram" src="https://img.shields.io/badge/MADARA-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rohillayas281@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/@uncountableaura"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&llogo=youtube&logoColor=white"></a>
 <a href="https://instagram.com/uchiha.rar"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://t.me/BeAkatsuki"><img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
