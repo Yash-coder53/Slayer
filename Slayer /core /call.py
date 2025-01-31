@@ -17,9 +17,9 @@ from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQuality
 from pytgcalls.types.stream import StreamAudioEnded
 
 import config
-from Mitsuha import LOGGER, YouTube, app
-from Mitsuha.misc import db
-from Mitsuha.utils.database import (
+from Slayer import LOGGER, YouTube, app
+from Slayer.misc import db
+from Slayer.utils.database import (
     add_active_chat,
     add_active_video_chat,
     get_lang,
