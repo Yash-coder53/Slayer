@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  runs-on: self-hosted
+  worker: bash stat
