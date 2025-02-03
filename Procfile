@@ -1,1 +1,1 @@
-worker: bash start
+runs-on: self-hosted
