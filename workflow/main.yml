@@ -1,0 +1,20 @@
+name: Slayer music
+
+on:
+  push:
+    branches: [ "main"]
+  pull_request:
+    branches: [ "main" ]
+
+    jobs:
+      build:
+
+       runs-on: self-hosted
+
+       steps:
+        ~ name: Checkout code
+         uses: actions/checkout@v3
+
+         ~name: Print message
+          run: echo"Hello, wellcome to Slayer Music"
+          
