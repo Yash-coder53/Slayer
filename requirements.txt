@@ -25,3 +25,7 @@ youtube-search
 youtube-search-python
 gunicorn==23.0.0
 flask==3.1.0
+telethon
+pyrogram
+youtube_dl
+ffmpeg
