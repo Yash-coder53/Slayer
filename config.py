@@ -7,8 +7,8 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("28204196"))
-API_HASH = getenv("4a393f9e5bdc34ad7c3ad2340f9b44de")
+API_ID = int(getenv("14125888"))
+API_HASH = getenv("ba80aeb31471c5762fe6736112029576")
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("8118009991:AAEDlne-l_v8aMkdsB5KDOT8PF9rASBhqjY")
@@ -66,7 +66,7 @@ MITWA = [ "<b>нєу</b> {0}, 💗\n\n๏ ᴛʜɪs ɪs {1} !\n\n➻ {1} ʏᴏᴜ
 
 
 # Get your pyrogram v2 session from @StringFatherBot on Telegram
-STRING1 = getenv("BQGuXKQAC7FXVffv0eKtnYxV4jJVzv_izuFKi_sWRujndZW63Ck9klAul58q0k1ElEecyodax46v6k9QgmZzTV8ezCr4ZJFBTwbn6VmVJIhOzObzzj7j_jRHJ9GaH0bGgh5AxhEy3CNCeVh2HiE_HXLRSwwKa7HmzD5vMy2N3rWjbRptg4TN4mpbWYClYrLA9VD_Y4zrQzmx5paTpJCybP5H9NnGoV3cEtKwkPbIEWIH3WX8xDuqrgBbug-0yDBPb8XBJWNuX3tmK2j8Gz4-SNXxKfCLlUzld_i6jyCKysyLBFpIlCjZqiwaY23cRrK_lPZfkzN3HaiOk5Ig3jWZbedkpfOxgwAAAAHCyZuBAA", True)
+STRING1 = getenv("BQDXi0AAOV37fTYLR_uW_vf16XKs3_UhBIzX9Q2hyaREV8JXl0w3pFcJavToy2VpwdG3C3RbHJwT0L-xmmt9S1lJUGKVQLsqJ3W80I0ZB_l_OACmqh_Eruix07I3zE-ewIe8URSRa_wrhxDE7jPj_fUHX6grimNhWQM2W2eqS4s1dSLSR4-5jN8P3GhPzEZS2wkFMtKXzHw8vbeN-0CZ6QsTDydclc1IFHEDWFdHQh-IrZ5A1LvQ8iJOE6kDXAYbV6jEmkjemUeUGG9nv3Hv0mFOB_-JHXjoN-fz2pWYQKRYYf3vlzk2STzG6lyVtdW3fVsNI7-hUE-WhrAiK88qZa2lwcI1VgAAAAHNN4qaAA", True)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
