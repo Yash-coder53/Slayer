@@ -5,7 +5,7 @@
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+SLAYER"></b></h1>
 
-<p align="center"><a href="https://t.me/JARVIS_V2"><img src="https://envs.sh/CtX.jpeg" width="600"></a></p>
+<p align="center"><a href="https://t.me/JARVIS_V2"><img src="https://i.ibb.co/s9PnnQmV/photo-2025-03-02-09-46-33-7477146352728670212.jpg" width="600"></a></p>
 
 <h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+💗+ʟᴇᴛ's+ᴄʀᴇᴀᴛᴇ+ᴀ+ᴡᴏʀʟᴅ ᴡʜᴇʀᴇ+ʏᴏᴜ+ᴄᴀɴ+ᴇxɪsᴛ! 💓✨+🦋+💗+"></b></h3>
 
