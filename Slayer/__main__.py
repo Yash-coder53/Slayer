@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from Slayer import LOGGER, app, userbot
-from Slayer.core.call import Anony
+from Slayer.core.call import Slayer
 from Slayer.misc import sudo
 from Slayer.plugins import ALL_MODULES
 from Slayer.utils.database import get_banned_users, get_gbanned
