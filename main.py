@@ -1,11 +1,11 @@
 import logging
-from telegram.ext import Updater, CommandHandler, MessageHandler, CallbackQueryHandler
-from telegram import InlineKeyboardButton, InlineKeyboardMarkup
+from Slayer.ext import Updater, CommandHandler, MessageHandler, CallbackQueryHandler
+from Slayer import InlineKeyboardButton, InlineKeyboardMarkup
 import youtube_dl
 
 logging.basicConfig(level=logging.INFO)
 
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '8118009991:AAEDlne-l_v8aMkdsB5KDOT8PF9rASBhqjY'
 
 def start(update, context):
     context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to Slayer Music Bot!")
