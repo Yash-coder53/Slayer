@@ -1,4 +1,4 @@
-from Slayer.core.bot import Anony
+from Slayer.core.bot import Slayer
 from Slayer.core.dir import dirr
 from Slayer.core.git import git
 from Slayer.core.userbot import Userbot
