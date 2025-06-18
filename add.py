@@ -1,11 +1,3 @@
-'''
-=============MR SIKANDER=====================
-Slayer members adding script
-Apologies if anything in the code is dumb :)
-Who Copy with credits he/she is gay/chinar
-************************************************
-'''
-
 # import libraries
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel, ChannelParticipantsSearch
@@ -15,14 +7,14 @@ from telethon.errors.rpcerrorlist import (
     UserAlreadyParticipantError, FloodWaitError
 )
 from telethon.tl.functions.channels import InviteToChannelRequest, GetParticipantsRequest
-import sys
 from telethon.tl.functions.messages import ImportChatInviteRequest, AddChatUser Request
 from telethon.tl.functions.channels import JoinChannelRequest
+import sys
+import os
+import pickle
 import time
 import random
 from colorama import init, Fore
-import os
-import pickle
 
 init()
 
@@ -45,12 +37,12 @@ minus = w + '[' + lg + '-' + w + ']' + rs
 def banner():
     # fancy logo
     b = [
-  ' _____ _         __     ___ _____ _____'
-  '/ ____| |        /\\ \   / /  ____|  __ \'
- '| (___ | |       /  \\ \_/ /| |__  | |__) |'
- ' \___ \| |      / /\ \\   / |  __| |  _  /'
- ' ____) | |____ / ____ \| |  | |____| | \ \'
-' |_____/|______/_/    \_\_|  |______|_|  \_\'
+        ' _____     _            __   ___      __ _______    _____',
+        '/ ____|   |  |          /\    \ \\   / / |  ____|  |   __ \\',
+        '| (___ |  |  |         /  \    \ \\_/ /  | |__     |   |__) |',
+        ' \\___ \\ |  |        / /\\ \   \   /    |  __|    |   _  /',
+        ' ____) |  |  |____   / ____ \\   | |     | |____   | | \\ \\',
+        '|_____/   |_______| /_/    \\_\\ |_|     |______|  |_|  \\_\\',
     ]
     for char in b:
         print(f'{random.choice(colors)}{char}{rs}')
