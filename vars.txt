@@ -1,38 +1,26 @@
-from telethon.sync import TelegramClient
-import pickle
 import os
 from colorama import init, Fore
 
 init()
 
-def create_new_vars_file():
-    print(f"{Fore.GREEN}Creating new vars.txt file...{Fore.RESET}")
+def quick_fix():
+    print(f"{Fore.YELLOW}Quick Fix: Recreating vars.txt{Fore.RESET}")
     
-    # Get API credentials
-    api_id = input("Enter your API ID: ")
-    api_hash = input("Enter your API Hash: ")
-    phone = input("Enter your phone number (with country code): ")
+    # Remove corrupted files
+    if os.path.exists('vars.txt'):
+        os.remove('vars.txt')
+        print(f"{Fore.GREEN}Removed corrupted vars.txt{Fore.RESET}")
     
-    # Create sessions directory if it doesn't exist
-    if not os.path.exists('sessions'):
-        os.makedirs('sessions')
+    if os.path.exists('status.dat'):
+        os.remove('status.dat')
+        print(f"{Fore.GREEN}Removed status.dat{Fore.RESET}")
     
-    # Create Telegram client and authorize
-    client = TelegramClient(f'sessions/{phone}', int(api_id), api_hash)
-    client.connect()
-    
-    if not client.is_user_authorized():
-        client.send_code_request(phone)
-        code = input("Enter the code you received: ")
-        client.sign_in(phone, code)
-    
-    # Save account to vars.txt
-    account_data = [phone, api_id, api_hash]
+    # Create empty vars.txt
     with open('vars.txt', 'wb') as f:
-        pickle.dump(account_data, f)
+        pass
     
-    print(f"{Fore.GREEN}Account added successfully!{Fore.RESET}")
-    client.disconnect()
+    print(f"{Fore.GREEN}Created new vars.txt file{Fore.RESET}")
+    print(f"\n{Fore.CYAN}Now run the main script again to add your accounts.{Fore.RESET}")
 
 if __name__ == "__main__":
-    create_new_vars_file()
+    quick_fix()
